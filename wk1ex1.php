@@ -1,1 +1,2 @@
-<?phph phpinfo(); ?> 
+<?php phpinfo(); ?> 
+<?php echo $_SERVER["HTTP_USER_AGENT"]; ?>
